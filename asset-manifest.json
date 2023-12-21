@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BrunoMadera/MaderaEngenharia/static/css/main.2e582265.css",
-    "main.js": "/BrunoMadera/MaderaEngenharia/static/js/main.8d9406fe.js",
-    "index.html": "/BrunoMadera/MaderaEngenharia/index.html",
-    "main.2e582265.css.map": "/BrunoMadera/MaderaEngenharia/static/css/main.2e582265.css.map",
-    "main.8d9406fe.js.map": "/BrunoMadera/MaderaEngenharia/static/js/main.8d9406fe.js.map"
+    "main.css": "/MaderaEngenharia/static/css/main.2e582265.css",
+    "main.js": "/MaderaEngenharia/static/js/main.8d9406fe.js",
+    "index.html": "/MaderaEngenharia/index.html",
+    "main.2e582265.css.map": "/MaderaEngenharia/static/css/main.2e582265.css.map",
+    "main.8d9406fe.js.map": "/MaderaEngenharia/static/js/main.8d9406fe.js.map"
   },
   "entrypoints": [
     "static/css/main.2e582265.css",
