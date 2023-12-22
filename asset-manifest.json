@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/MaderaEngenharia/static/css/main.2e582265.css",
-    "main.js": "/MaderaEngenharia/static/js/main.8d9406fe.js",
+    "main.css": "/MaderaEngenharia/static/css/main.36838234.css",
+    "main.js": "/MaderaEngenharia/static/js/main.d5772af2.js",
+    "static/media/logo_colored.png": "/MaderaEngenharia/static/media/logo_colored.7c4cd3b66e99e567cdb9.png",
     "index.html": "/MaderaEngenharia/index.html",
-    "main.2e582265.css.map": "/MaderaEngenharia/static/css/main.2e582265.css.map",
-    "main.8d9406fe.js.map": "/MaderaEngenharia/static/js/main.8d9406fe.js.map"
+    "main.36838234.css.map": "/MaderaEngenharia/static/css/main.36838234.css.map",
+    "main.d5772af2.js.map": "/MaderaEngenharia/static/js/main.d5772af2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e582265.css",
-    "static/js/main.8d9406fe.js"
+    "static/css/main.36838234.css",
+    "static/js/main.d5772af2.js"
   ]
 }
