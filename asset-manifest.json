@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaderaEngenharia/static/css/main.98dcf096.css",
-    "main.js": "/MaderaEngenharia/static/js/main.1bcac34a.js",
+    "main.css": "/MaderaEngenharia/static/css/main.0594270d.css",
+    "main.js": "/MaderaEngenharia/static/js/main.58f76bc9.js",
     "static/media/vp.jpg": "/MaderaEngenharia/static/media/vp.5509f1e7bf659b25686d.jpg",
     "static/media/energy.jpg": "/MaderaEngenharia/static/media/energy.383c78d245e21f7274e9.jpg",
     "static/media/mro.jpg": "/MaderaEngenharia/static/media/mro.1169dbc4006633439b16.jpg",
@@ -9,17 +9,22 @@
     "static/media/telecom.jpg": "/MaderaEngenharia/static/media/telecom.403ace0200ec3d16bdda.jpg",
     "static/media/mvv.png": "/MaderaEngenharia/static/media/mvv.5895aaa9a716fc4e0241.png",
     "static/media/manag.png": "/MaderaEngenharia/static/media/manag.d22be826192f4b8f9189.png",
+    "static/media/Banner_projects1.png": "/MaderaEngenharia/static/media/Banner_projects1.19b56665aa871ca78443.png",
+    "static/media/mecanic.png": "/MaderaEngenharia/static/media/mecanic.bb30f8bbc98564452d5c.png",
+    "static/media/hydraulic1.jpg": "/MaderaEngenharia/static/media/hydraulic1.e28400bb52f469c8e737.jpg",
     "static/media/indust2.jpg": "/MaderaEngenharia/static/media/indust2.85c7d06ac2dd0c0b02a7.jpg",
     "static/media/bannerME.png": "/MaderaEngenharia/static/media/bannerME.5f1792f5e325e4fa412f.png",
+    "static/media/energy3.jpg": "/MaderaEngenharia/static/media/energy3.f26c4a22c1520cdb2a7c.jpg",
     "static/media/railway4a.jpg": "/MaderaEngenharia/static/media/railway4a.ca19c165d28fe9f61532.jpg",
+    "static/media/chemistry.jpg": "/MaderaEngenharia/static/media/chemistry.c8e5e676ac536ba702d1.jpg",
     "static/media/banner_blue.png": "/MaderaEngenharia/static/media/banner_blue.fd8f2744229cf144cfcb.png",
     "static/media/logo240px.png": "/MaderaEngenharia/static/media/logo240px.7fd8616a3c3f6951de97.png",
     "index.html": "/MaderaEngenharia/index.html",
-    "main.98dcf096.css.map": "/MaderaEngenharia/static/css/main.98dcf096.css.map",
-    "main.1bcac34a.js.map": "/MaderaEngenharia/static/js/main.1bcac34a.js.map"
+    "main.0594270d.css.map": "/MaderaEngenharia/static/css/main.0594270d.css.map",
+    "main.58f76bc9.js.map": "/MaderaEngenharia/static/js/main.58f76bc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.98dcf096.css",
-    "static/js/main.1bcac34a.js"
+    "static/css/main.0594270d.css",
+    "static/js/main.58f76bc9.js"
   ]
 }
