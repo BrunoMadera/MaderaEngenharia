@@ -25,10 +25,6 @@ export default function Projects1() {
   return ( 
 
     <>
-
-    projetos industriais
-
-
 <Box sx={{ flexGrow: 1 }} style={{marginTop: '15px'}}>
       <Grid container spacing={2} columns={8}>
         <Grid item xs={20}>

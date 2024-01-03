@@ -30,10 +30,6 @@ export default function Projects2() {
   return ( 
 
     <>
-
-    projetos ferroviarios
-
-
 <Box sx={{ flexGrow: 1 }} style={{marginTop: '15px'}}>
       <Grid container spacing={2} columns={8}>
         <Grid item xs={20}>

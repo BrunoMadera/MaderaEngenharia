@@ -25,7 +25,6 @@ export default function Home() {
 
     <>
 
-    home
 <Card >
             <CardActionArea>
               <CardMedia
