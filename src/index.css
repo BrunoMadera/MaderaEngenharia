@@ -1,0 +1,98 @@
+body {
+  background-color: #FFFFFF;
+  padding: 20px;
+  margin: 0;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 10px;
+
+}
+ul.header {
+  background-color: #ff851b;
+  padding: 3px;
+}
+
+ul.logo {
+  background-color: white;
+}
+
+ul.header li a {
+  display: inline-block;
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 8px;
+
+  
+}
+
+ul{
+    list-style-type: circle;
+}
+
+strong{
+  /* text-decoration: underline; */
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+.Tit1 {
+  font-weight: 100;
+  text-decoration:underline;
+}
+
+.Tit2 {
+  font-weight: 200;
+  color: #89939E;
+}
+
+
+.content {
+  background-color: #FFFFFF;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.active {
+  background-color: #000AB0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight:100;
+
+  margin: 0px;
+  padding: 10px;
+}
+
+span{
+
+  text-decoration: underline;
+}
+
+.containerA {  
+  
+  display: grid;
+  margin: 25px 0 25px 0;
+  background-color: #ff851b; 
+  grid-template-rows: 45px;
+  grid-template-columns:  auto ;
+  grid-template-areas: 
+    "A B C D E F";
+  }
+
+.A { grid-area: A; max-height: 180px; align-self: center; }
+
+.B { grid-area: B; justify-self: end; align-self: center;}
+
+.C { grid-area: C; justify-self: end; align-self: center}
+
+.D { grid-area: D; justify-self: end; align-self: center} 
+
+.E { grid-area: E;justify-self: end; align-self: center } 
+
+.F { grid-area: F; justify-self: end; align-self: center}
