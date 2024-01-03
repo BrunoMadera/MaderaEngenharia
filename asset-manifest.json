@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaderaEngenharia/static/css/main.0594270d.css",
-    "main.js": "/MaderaEngenharia/static/js/main.58f76bc9.js",
+    "main.css": "/MaderaEngenharia/static/css/main.5fe545d8.css",
+    "main.js": "/MaderaEngenharia/static/js/main.b3303265.js",
     "static/media/vp.jpg": "/MaderaEngenharia/static/media/vp.5509f1e7bf659b25686d.jpg",
     "static/media/energy.jpg": "/MaderaEngenharia/static/media/energy.383c78d245e21f7274e9.jpg",
     "static/media/mro.jpg": "/MaderaEngenharia/static/media/mro.1169dbc4006633439b16.jpg",
@@ -20,11 +20,11 @@
     "static/media/banner_blue.png": "/MaderaEngenharia/static/media/banner_blue.fd8f2744229cf144cfcb.png",
     "static/media/logo240px.png": "/MaderaEngenharia/static/media/logo240px.7fd8616a3c3f6951de97.png",
     "index.html": "/MaderaEngenharia/index.html",
-    "main.0594270d.css.map": "/MaderaEngenharia/static/css/main.0594270d.css.map",
-    "main.58f76bc9.js.map": "/MaderaEngenharia/static/js/main.58f76bc9.js.map"
+    "main.5fe545d8.css.map": "/MaderaEngenharia/static/css/main.5fe545d8.css.map",
+    "main.b3303265.js.map": "/MaderaEngenharia/static/js/main.b3303265.js.map"
   },
   "entrypoints": [
-    "static/css/main.0594270d.css",
-    "static/js/main.58f76bc9.js"
+    "static/css/main.5fe545d8.css",
+    "static/js/main.b3303265.js"
   ]
 }
