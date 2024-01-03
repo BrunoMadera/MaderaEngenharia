@@ -53,13 +53,12 @@ export default function Projects2() {
                 <Typography gutterBottom variant="h6" color="text.secondary" style={{textAlign: 'left'}}>
                 <ul>
                     <li>Consultoria de Engenharia de Sistemas para implantação de novas linhas</li>
-                    <li>Definição de modelo de negócio</li>
-                    <li>Planejamento estratégico</li>
-                    <li>Definição de rotinas administrativas para a fase operacional</li>
+                    <li>Definição de modelo de negócio e Planejamento estratégico</li>
+                    <li>Definição de rotinas geremnciais para a fase operacional</li>
                     <li>Consultoria executiva para continuidade do negócio</li>
                     <li>Testes de aderência ao orçamento e planos de correção de curso</li>
-                    <li>Escolha de sistemas e software para gerenciamento da operação e manutenção</li>
                     <li>Direcionamento na transformação digital.</li>
+                    <li>Escolha de sistemas e software para gerenciamento da operação e manutenção</li>
                 </ul>
                 </Typography>
                   </CardContent>

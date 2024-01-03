@@ -3,12 +3,11 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import { CardActionArea, CardActions } from '@mui/material';
+import { CardActionArea } from '@mui/material';
 
 let banner = require("../images/banner_blue.png");
 let location = require("../images/location1.png");
 let mvv = require("../images/mvv.png");
-
 
 
 export default function Company() {
@@ -19,41 +18,36 @@ export default function Company() {
             <CardActionArea>
               <CardMedia
                 component="img"
-                height="100"
+                height="90"
                 image={banner}
                 alt="madera engenharia"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="div">
+                <Typography gutterBottom variant="h5" component="div">
                   Quem Somos?
                 </Typography>
-                <Typography gutterBottom variant="h5" color="text.secondary">
+                <Typography gutterBottom variant="h6" color="text.secondary">
                   Fundada em 2021 e se consolidando na trajetória de excelência e dedicação a Madera Engenharia é uma empresa 
-                  especializada em soluções de engenharia em formato Turn-Key, 
+                  especializada em soluções de engenharia em formato <em>turn-key</em>, 
                   oferecendo serviços completos para soluções de engenharia.
                 </Typography>
               </CardContent>
             </CardActionArea>
-            <CardActions>
-              {/* <Button size="small" color="primary">
-                Share
-              </Button> */}
-            </CardActions>
           </Card>
 
            <Card >
             <CardActionArea>
               <CardMedia
                 component="img"
-                height="100"
+                height="80"
                 image={mvv}
                 alt="madera engenharia"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="div">
+                <Typography gutterBottom variant="h5" component="div">
                   Missão, Visão e Valores
                 </Typography>
-                <Typography gutterBottom variant="h5" color="text.secondary">
+                <Typography gutterBottom variant="h6" color="text.secondary">
                   <p className="Tit1">Missão</p>
                     <p className="Tit2">
                     A missão da Madera Engenharia é oferecer soluções de engenharia eficientes, 
@@ -76,36 +70,26 @@ export default function Company() {
                 </Typography>
               </CardContent>
             </CardActionArea>
-            <CardActions>
-              {/* <Button size="small" color="primary">
-                Share
-              </Button> */}
-            </CardActions>
           </Card>
 
            <Card >
             <CardActionArea>
               <CardMedia
                 component="img"
-                height="100"
+                height="80"
                 image={location}
                 alt="madera engenharia"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="div">
+                <Typography gutterBottom variant="h5" component="div">
                   Localização
                 </Typography>
-                <Typography gutterBottom variant="h5" color="text.secondary">
+                <Typography gutterBottom variant="h6" color="text.secondary">
                   A Madera Engenharia está sediada no estado de São Paulo, atendendo a região metropolitana
                    e expandindo sua atuação para novos mercados.
                 </Typography>
               </CardContent>
             </CardActionArea>
-            <CardActions>
-              {/* <Button size="small" color="primary">
-                Share
-              </Button> */}
-            </CardActions>
           </Card>
 
 

@@ -35,6 +35,12 @@ ul{
     list-style-type: circle;
 }
 
+ul.none {
+    list-style-type: none;
+
+
+}
+
 strong{
   /* text-decoration: underline; */
   font-family: 'Fira Sans Extra Condensed', sans-serif;
@@ -49,6 +55,14 @@ strong{
   color: #89939E;
 }
 
+.h7{
+  font-weight: 100;
+  font-style: underline;
+}
+.h8{
+  font-weight: 100;
+  font-style: italic;
+}
 
 .content {
   background-color: #FFFFFF;
