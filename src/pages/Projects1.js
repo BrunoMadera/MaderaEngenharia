@@ -1,5 +1,6 @@
 import * as React from 'react';
 import Card from '@mui/material/Card';
+import Link from '@mui/material/Link';
 
 import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
@@ -9,7 +10,7 @@ import Grid from '@mui/material/Grid';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import { Button, CardActionArea, CardActions } from '@mui/material';
+import { CardActionArea, CardActions } from '@mui/material';
 
 let manag = require("../images/Banner_projects1.png");
 let hydraulic = require("../images/hydraulic1.jpg");
@@ -61,9 +62,9 @@ export default function Projects1() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                  <Button size="small" color="warning" href='Contact'>  
-                    Quero mais detalhes...
-                  </Button>
+                <Link href="Contact" underline="hover">
+                  {'Quero mais Detalhes...'}
+                </Link>
                 </CardActions>
               </Card>
           </Item>
@@ -88,9 +89,9 @@ export default function Projects1() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                  <Button size="small" color="warning" href='Contact'>  
-                    Quero mais detalhes...
-                  </Button>
+                <Link href="Contact" underline="hover">
+                  {'Quero mais Detalhes...'}
+                </Link>
                 </CardActions>
               </Card>
           </Item>
@@ -115,9 +116,9 @@ export default function Projects1() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                  <Button size="small" color="warning" href='Contact'>  
-                    Quero mais detalhes...
-                  </Button>
+                <Link href="Contact" underline="hover">
+                  {'Quero mais Detalhes...'}
+                </Link>
                 </CardActions>
               </Card>
           </Item>
@@ -142,9 +143,9 @@ export default function Projects1() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                  <Button size="small" color="warning" href='Contact'>  
-                    Quero mais detalhes...
-                  </Button>
+                <Link href="Contact" underline="hover">
+                  {'Quero mais Detalhes...'}
+                </Link>
                 </CardActions>
               </Card>
           </Item>
@@ -169,9 +170,9 @@ export default function Projects1() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                  <Button size="small" color="warning" href='Contact'>  
-                    Quero mais detalhes...
-                  </Button>
+                <Link href="Contact" underline="hover">
+                  {'Quero mais Detalhes...'}
+                </Link>
                 </CardActions>
               </Card>
           </Item>

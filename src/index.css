@@ -91,10 +91,10 @@ span{
 .containerA {  
   
   display: grid;
-  margin: 25px 0 50px 0;
+  margin: 25px 0 40px 0;
   background-color: #ff851b; 
   grid-template-rows: 45px;
-  grid-template-columns:  auto ;
+  grid-template-columns: repeat (6, auto);
   grid-template-areas: 
     "A B C D E F";
   }
