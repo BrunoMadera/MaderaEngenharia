@@ -34,8 +34,8 @@ export default function Home() {
                 image={banner}
                 alt="madera engenharia"
               />
-              <CardContent >
-                <Typography gutterBottom variant="h5" component="div">
+              <CardContent style={{backgroundColor:'rgb(0,0,0,0.1'}}>
+                <Typography gutterBottom variant="h5" component="div" >
                   <strong><span>Projetos completos, Sem complicações.</span></strong> 
                 </Typography>
                 <Typography gutterBottom variant="h6" color="text.secondary" style={{textAlign: 'center'}}>

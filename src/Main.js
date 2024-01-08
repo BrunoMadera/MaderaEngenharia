@@ -21,7 +21,7 @@ function Main() {
         <NavBar />
           <div className="content">
           <Routes>
-            <Route exact path="/" element={<Home />} />
+            <Route path="/"  element={<Home />} />
             <Route path="/Home" element={<Home />} />
             <Route path="/Company" element={<Company />} />
             <Route path="/Projects1" element={<Projects1 />} />
