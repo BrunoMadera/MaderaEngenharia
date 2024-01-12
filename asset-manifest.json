@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/MaderaEngenharia/static/css/main.79d211db.css",
-    "main.js": "/MaderaEngenharia/static/js/main.a9ba6ba1.js",
+    "main.css": "/MaderaEngenharia/static/css/main.c4144dc9.css",
+    "main.js": "/MaderaEngenharia/static/js/main.9ca3e53b.js",
     "static/media/vp.jpg": "/MaderaEngenharia/static/media/vp.5509f1e7bf659b25686d.jpg",
     "static/media/energy.jpg": "/MaderaEngenharia/static/media/energy.383c78d245e21f7274e9.jpg",
     "static/media/mro.jpg": "/MaderaEngenharia/static/media/mro.1169dbc4006633439b16.jpg",
     "static/media/location1.png": "/MaderaEngenharia/static/media/location1.e180bbb6339d387c657f.png",
     "static/media/telecom.jpg": "/MaderaEngenharia/static/media/telecom.403ace0200ec3d16bdda.jpg",
+    "static/media/reachUs.jpg": "/MaderaEngenharia/static/media/reachUs.358ecd814a83e4cf41d7.jpg",
     "static/media/mvv.png": "/MaderaEngenharia/static/media/mvv.5895aaa9a716fc4e0241.png",
     "static/media/manag.png": "/MaderaEngenharia/static/media/manag.d22be826192f4b8f9189.png",
     "static/media/Banner_projects1.png": "/MaderaEngenharia/static/media/Banner_projects1.19b56665aa871ca78443.png",
@@ -20,11 +21,11 @@
     "static/media/banner_blue.png": "/MaderaEngenharia/static/media/banner_blue.fd8f2744229cf144cfcb.png",
     "static/media/logo240px.png": "/MaderaEngenharia/static/media/logo240px.7fd8616a3c3f6951de97.png",
     "index.html": "/MaderaEngenharia/index.html",
-    "main.79d211db.css.map": "/MaderaEngenharia/static/css/main.79d211db.css.map",
-    "main.a9ba6ba1.js.map": "/MaderaEngenharia/static/js/main.a9ba6ba1.js.map"
+    "main.c4144dc9.css.map": "/MaderaEngenharia/static/css/main.c4144dc9.css.map",
+    "main.9ca3e53b.js.map": "/MaderaEngenharia/static/js/main.9ca3e53b.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d211db.css",
-    "static/js/main.a9ba6ba1.js"
+    "static/css/main.c4144dc9.css",
+    "static/js/main.9ca3e53b.js"
   ]
 }
