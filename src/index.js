@@ -6,4 +6,12 @@ import "./index.css";
 
 const container = document.getElementById('root');
 const root = createRoot(container); // createRoot(container!) 
-root.render(<Main tab="Home" />);
+
+root.render(
+    <>
+    <div className = "content"> 
+        <Main tab="Home" />
+    </div>
+    </>
+
+);

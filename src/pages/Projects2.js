@@ -1,11 +1,11 @@
 import * as React from 'react';
 import Card from '@mui/material/Card';
-import Link from '@mui/material/Link';
 
 import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
+import Button from '@mui/material/Button';
 
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
@@ -31,7 +31,7 @@ export default function Projects2() {
   return ( 
 
     <>
-<Box sx={{ flexGrow: 1 }} style={{marginTop: '15px'}}>
+<Box sx={{ flexGrow: 1 }} style={{marginTop: '0px'}}>
       <Grid container spacing={2} columns={8}>
         <Grid item xs={20}>
           <Item>
@@ -61,10 +61,8 @@ export default function Projects2() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Link href="Contact" underline="hover">
-                  {'Quero mais Detalhes...'}
-                </Link>
-                </CardActions>
+                      <Button size="small" onClick={() => {window.location.href="Contact";}}>Quero mais detalhes</Button>
+                 </CardActions>
               </Card>
           </Item>
         </Grid>
@@ -99,10 +97,8 @@ export default function Projects2() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Link href="Contact" underline="hover">
-                  {'Quero mais Detalhes...'}
-                </Link>
-                </CardActions>
+                      <Button size="small" onClick={() => {window.location.href="Contact";}}>Quero mais detalhes</Button>
+                 </CardActions>
               </Card>
           </Item>
         </Grid>
@@ -138,10 +134,8 @@ export default function Projects2() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Link href="Contact" underline="hover">
-                  {'Quero mais Detalhes...'}
-                </Link>
-                </CardActions>
+                      <Button size="small" onClick={() => {window.location.href="Contact";}}>Quero mais detalhes</Button>
+                 </CardActions>
               </Card>
           </Item>
         </Grid>
@@ -176,10 +170,8 @@ export default function Projects2() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Link href="Contact" underline="hover">
-                  {'Quero mais Detalhes...'}
-                </Link>
-                </CardActions>
+                      <Button size="small" onClick={() => {window.location.href="Contact";}}>Quero mais detalhes</Button>
+                 </CardActions>
               </Card>
           </Item>
         </Grid>
@@ -215,10 +207,8 @@ export default function Projects2() {
                   </CardContent>
                 </CardActionArea>
                 <CardActions>
-                <Link href="Contact" underline="hover">
-                  {'Quero mais Detalhes...'}
-                </Link>
-                </CardActions>
+                      <Button size="small" onClick={() => {window.location.href="Contact";}}>Quero mais detalhes</Button>
+                 </CardActions>
               </Card>
           </Item>
         </Grid>
